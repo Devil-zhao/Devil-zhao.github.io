@@ -13,14 +13,14 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: ZhaoHu
-  tagline: Devil.designer
+  tagline: '记录学习生活'
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  http://github.com/devil-zhao
+    github:  devil-zhao
     linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
