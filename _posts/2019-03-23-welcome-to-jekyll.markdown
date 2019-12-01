@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
+title:  "写点儿代码混口饭吃"
+date:   2019-11-23 21:03:36 +0530
 categories: C++ Python
 ---
 我喜欢的文学著作
+
 我推荐的C++、Python相关的书籍
 
 ```javascript
