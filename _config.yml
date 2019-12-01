@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: ZhaoHu
-  tagline: 写点儿代码，混口饭吃
+  tagline: '记录学习生活'
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
