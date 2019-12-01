@@ -2,10 +2,9 @@
 layout: post
 title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+categories: C++ Python
 ---
 我喜欢的文学著作
-
 我推荐的C++、Python相关的书籍
 
 ```javascript
